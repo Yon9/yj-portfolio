@@ -85,6 +85,8 @@ section#skill .skill_main .box.skills dl dd {padding-left: 85px;}
 
 /* icon */
 section#skill .skill_main .box.contacts dl dd i {position: absolute; left: 30px; color: #a7a7a7; font-size: 16px; padding-top: 4px;}
+section#skill .skill_main .box.contacts dl dd a {text-decoration: none; color: #444;}
+section#skill .skill_main .box.contacts dl dd a:hover {color: #8d3384;}
 
 
 /* -------------------- PORTFOLIO -------------------- */
